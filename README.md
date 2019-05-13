@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 The following are useful video tutorials for learning the ATS language.
 
 
-## I Suck at ATS - Video Series
+# I Suck at ATS - Video Series
 
 This 15-part video series provides a great introduction into ATS and then jumps in with some fun examples before going more in-depth with some of ATS's more advanced features. Note that some of the later videos in this series do not include voice-overs but still include typed descriptions and commentary of what is happening. 
 

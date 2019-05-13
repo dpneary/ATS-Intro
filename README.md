@@ -21,7 +21,7 @@ This 15-part video series provides a great introduction into ATS and then jumps 
 or
 
 Click Here to Start Watching the First Video in the series:
-![Video #1](https://img.youtube.com/vi/kl7vrWdxTPQ/maxresdefault.jpg)
+[![Video #1](https://img.youtube.com/vi/kl7vrWdxTPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=kl7vrWdxTPQ&list=PL6BIXG1a4elsauhh56i5nryB_4K4GMbFq)
 
 ```markdown
 Syntax highlighted code block

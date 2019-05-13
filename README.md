@@ -20,7 +20,7 @@ This 15-part video series provides a great introduction into ATS and then jumps 
 or
 
 ### Click Here to Start Watching the First Video in the series:
-[![Hello, world :: I suck at ATS](https://img.youtube.com/vi/Xkg_EmERYRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xkg_EmERYRE)
+[![Hello, world :: I suck at ATS](https://img.youtube.com/vi/Xkg_EmERYRE/hqdefault.jpg)](https://www.youtube.com/watch?v=Xkg_EmERYRE)
 
 
 

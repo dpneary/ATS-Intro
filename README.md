@@ -11,7 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 The following are useful video tutorials for learning the ATS language.
 
-
 ## I Suck at ATS - Video Series
 
 This 15-part video series provides a great introduction into ATS and then jumps in with some fun examples before going more in-depth with some of ATS's more advanced features. Note that some of the later videos in this series do not include voice-overs but still include typed descriptions and commentary of what is happening. 
@@ -21,8 +20,21 @@ This 15-part video series provides a great introduction into ATS and then jumps 
 or
 
 ### Click Here to Start Watching the First Video in the series:
-[![Video #1](https://img.youtube.com/vi/kl7vrWdxTPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=kl7vrWdxTPQ&list=PL6BIXG1a4elsauhh56i5nryB_4K4GMbFq)
+[![Hello, world :: I suck at ATS](https://img.youtube.com/vi/Xkg_EmERYRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xkg_EmERYRE)
 
+
+
+
+## Intro to ATS - Video Series
+
+This 10-part video series on the ATS language's official youtube page provides a great look at the main components of the language. Videos are seperated by topic and include all the classic topics such as datatypes, functions, and best practices, as well as topics more specific to ATS.
+
+[Intro to ATS - Full Playlist](https://www.youtube.com/playlist?list=PL6BIXG1a4elukfR7-CDrlCwICk-7K7XI-)
+
+or
+
+### Click Here to Start Watching the First Video in the series:
+[![Intro to ATS #1 -- good programmers and best programmers](https://img.youtube.com/vi/kl7vrWdxTPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=kl7vrWdxTPQ&list=PL6BIXG1a4elsauhh56i5nryB_4K4GMbFq)
 ```markdown
 Syntax highlighted code block
 

@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## ATS Resources
+
+The purpose of this page is to provide an aggregation of the many great resources available online to learn ATS. A short description is provided for each website or resource to help you decide what resources might be useful to you as you learn.
+
 
 You can use the [editor on GitHub](https://github.com/dpneary/ATS-Intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

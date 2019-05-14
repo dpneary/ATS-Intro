@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 The following are useful video tutorials for learning the ATS language.
 
-## I Suck at ATS - Video Series
+### I Suck at ATS - Video Series
 
 This 15-part video series provides a great introduction into ATS and then jumps in with some fun examples before going more in-depth with some of ATS's more advanced features. Note that some of the later videos in this series do not include voice-overs but still include typed descriptions and commentary of what is happening. 
 
@@ -25,7 +25,7 @@ or
 
 
 
-## Intro to ATS - Video Series
+### Intro to ATS - Video Series
 
 This 10-part video series on the ATS language's official youtube page provides a great look at the main components of the language. Videos are seperated by topic and include all the classic topics such as datatypes, functions, and best practices, as well as topics more specific to ATS.
 
@@ -39,16 +39,44 @@ or
 
 
 
-## "A (Not So Gentle) Introduction To Systems Programming In ATS" by Aditya Siram
+### A (Not So Gentle) Introduction To Systems Programming In ATS - Video
 
 This quick and somewhat humorous tutorial gives a great high-level overview of the features, quirks, and syntax of ATS. It is useful for those who just want a general overview of the language before performing a deeper dive.
 
-[A (Not So Gentle) Introduction To Systems Programming In ATS - Video](https://www.youtube.com/watch?v=zt0OQb1DBko)
+[A (Not So Gentle) Introduction To Systems Programming In ATS by Aditya Siram](https://www.youtube.com/watch?v=zt0OQb1DBko)
 
 or
 
-**Click Here to Start Watching the First Video in the series:**
+**Click Here to Start Watching the video:**
 [![Intro to ATS #1 -- good programmers and best programmers](https://img.youtube.com/vi/zt0OQb1DBko/maxresdefault.jpg)](https://www.youtube.com/watch?v=zt0OQb1DBko)
+
+
+
+
+
+
+
+
+# Written Tutorials and Examples
+
+The following are useful written tutorials and learn-by-example solutions for learning the ATS language.
+
+### Introduction to Programming in ATS
+
+This 250+ page book on ATS is an in-depth look at the language and comes from the official ATS wesbite. The official website provides this description:
+```
+This book starts from the core of ATS, a statically typed call-by-value functional programming language, gradually introducing the reader to dependent types, linear types and the paradigm of programming with theorem-proving. It assumes no familiarity of the reader with functional programming but it does expect the reader to have already acquired basic understanding of programming and possibly some programming skills.
+```
+
+[Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK-onechunk.html)
+
+
+
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 

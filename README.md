@@ -63,13 +63,47 @@ The following are useful written tutorials and learn-by-example solutions for le
 
 ### Introduction to Programming in ATS
 
-This 250+ page book on ATS is an in-depth look at the language and comes from the official ATS wesbite. The official website provides this description:
-```
-This book starts from the core of ATS, a statically typed call-by-value functional programming language, gradually introducing the reader to dependent types, linear types and the paradigm of programming with theorem-proving. It assumes no familiarity of the reader with functional programming but it does expect the reader to have already acquired basic understanding of programming and possibly some programming skills.
-```
+This 250+ page book on ATS is an in-depth look at the language and comes from the official ATS wesbite. It is by far the most complete guide to ATS. The official website provides this description:
+
+"This book starts from the core of ATS, a statically typed call-by-value functional programming language, gradually introducing the reader to dependent types, linear types and the paradigm of programming with theorem-proving. It assumes no familiarity of the reader with functional programming but it does expect the reader to have already acquired basic understanding of programming and possibly some programming skills."
 
 [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/INT2PROGINATS-BOOK-onechunk.html)
 
+
+
+
+
+### Tutorial on Programming Features in ATS
+
+This book provides over 90 pages of examples of programming features in ATS. It assumes some knowledge of programming off the bat, but is useful for those looking to transition from another language rather than learn from scratch. The official website provides this description:
+
+"The primary purpose of this tutorial is to bring insights into a rich set of programming features in ATS and also demonstrate through concrete examples that these features can be made of effective use in the construction of high-quality programs. For someone familiar with both ML and C, it is possible to learn programming in ATS by simply studying the tutorial. However, a coherent and systematic view of ATS is diffcult to be gained from the tutorial alone."
+
+[Tutorial on Programming Features in ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2TUTORIAL/HTML/ATS2TUTORIAL-BOOK-onechunk.html)
+
+
+
+
+
+
+
+### A Crash into Functional Programming via ATS
+
+This guide focuses on a functional programming, a programming paradigm that ATS is uniquely suited for. This is great read and can provides great insight for those not used to the functional style. The official website provides this description:
+
+"This book consists of a set of lecture notes for a crash course on functional programming in ATS. The primary focus of these notes is set upon advocating a style of problem-solving that makes extensive use of list-processing and stream-processing functions. After finishing this course, one will have become familiar with recursion in problem-solving and ready to formulate high-level combinator-based programming solutions."
+
+[A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/book1.html)
+
+
+
+
+
+### Effective Programming in ATS through Examples
+
+This is the last of the officially provided ATS resources, and is a list of several common programming problems and challenges. Examples include the Hanoi Towers, the Dining Philosophers problem, and using combinators. In total, 30 examples are provided.
+
+[Effective Programming in ATS through Examples](http://ats-lang.sourceforge.net/EXAMPLE/EFFECTIVATS/)
 
 
 

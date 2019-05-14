@@ -2,10 +2,15 @@
 
 The purpose of this page is to provide an aggregation of the many great resources available online to learn ATS. A short description is provided for each website or resource to help you decide what resources might be useful to you as you learn.
 
+# Why learn ATS?
+ATS is a very unique language in that it has support for several different programming paradigms. These include, functional, imperative, concurrent, and modular. Often first time programmers start learning under the imperative paradigm. When they are ready to learn another programming style, such as functional, they may need to switch languages and learn everything again due to lack of support for the style. With ATS a student could use the same language for nearly all of their classes, and avoid redundant learning. In addition, because ATS allows theorum-proving even when programming imperatively, new coders can write good code right away, rather than in a sloppy/unsafe style that might result from writing similar code in another language.
 
-You can use the [editor on GitHub](https://github.com/dpneary/ATS-Intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Another great feature of ATS is that because it compiles to C, one can expect the same level of optimization and speed as C without having to learn a lower-level and more complicated language. In addition, ATS provides a very nice layer for performing various features that would be quite difficult in C.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In conclusion, ATS is a language that could be easily used in any computer science or programming class. It includes support for everything from 3D modeling/printing to arduino programming to use on the Web. It also provides a great jumping point for those who might be interested in learning other industry languages such as OCaml. Whether you are a new or experienced programmer, ATS has alot to offer that any other language simply doesn't have the width to cover.
+
+I hope you have taken these words to heart, and will browse some of these great tutorials below. They are a goldmine of information. Many thanks to all the people who created them.
+
 
 # Video Tutorials
 

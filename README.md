@@ -111,30 +111,29 @@ This is the last of the officially provided ATS resources, and is a list of seve
 
 
 
-```markdown
-Syntax highlighted code block
+### ATS Examples by Bluish Coder
 
-# Header 1
-## Header 2
-### Header 3
+This is a series of more than 30 more advanced examples for the coder who already has a decent grasp on ATS (though complete knowledge is by no means nessecary). This series is from a semi-active blog so expect more examples to be added too.
 
-- Bulleted
-- List
+[ATS Examples by Bluish Coder](https://bluishcoder.co.nz/tags/ats/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dpneary/ATS-Intro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### ML programmer's guide to ATS
 
-### Support or Contact
+This is a brief overview of ATS mean for those who have familiarity with ML, a language in the same family as ATS. It covers mostly syntax differences and can get an ML programmer up to speed quickly.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[ML programmer's guide to ATS](http://cs.likai.org/ats/ml-programmers-guide-to-ats)
+
+
+
+### Teaching Examples of Steinway Wu
+
+This last resource comes from the personal blog of a former TA for a class on ATS. Scattered throughout the blog are many examples and helpful tips for ATS. Though it is not a full-fledged guide itself, it can come in handy for topics not covered by any of the other resources.
+
+[Teaching Examples of Steinway Wu](http://steinwaywu.com/categories/)
+
+

@@ -19,7 +19,7 @@ This 15-part video series provides a great introduction into ATS and then jumps 
 
 or
 
-** Click Here to Start Watching the First Video in the series: **
+**Click Here to Start Watching the First Video in the series:**
 [![Hello, world :: I suck at ATS](https://img.youtube.com/vi/Xkg_EmERYRE/hqdefault.jpg)](https://www.youtube.com/watch?v=Xkg_EmERYRE)
 
 
@@ -33,7 +33,7 @@ This 10-part video series on the ATS language's official youtube page provides a
 
 or
 
-** Click Here to Start Watching the Video: **
+**Click Here to Start Watching the Video:**
 [![Intro to ATS #1 -- good programmers and best programmers](https://img.youtube.com/vi/kl7vrWdxTPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=kl7vrWdxTPQ&list=PL6BIXG1a4elsauhh56i5nryB_4K4GMbFq)
 
 
@@ -47,7 +47,7 @@ This quick and somewhat humorous tutorial gives a great high-level overview of t
 
 or
 
-** Click Here to Start Watching the First Video in the series: **
+**Click Here to Start Watching the First Video in the series:**
 [![Intro to ATS #1 -- good programmers and best programmers](https://img.youtube.com/vi/zt0OQb1DBko/maxresdefault.jpg)](https://www.youtube.com/watch?v=zt0OQb1DBko)
 ```markdown
 Syntax highlighted code block

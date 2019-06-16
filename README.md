@@ -145,8 +145,14 @@ This is a brief overview of ATS mean for those who have familiarity with ML, a l
 
 ### Teaching Examples of Steinway Wu
 
-This last resource comes from the personal blog of a former TA for a class on ATS. Scattered throughout the blog are many examples and helpful tips for ATS. Though it is not a full-fledged guide itself, it can come in handy for topics not covered by any of the other resources.
+This resource comes from the personal blog of a former TA for a class on ATS. Scattered throughout the blog are many examples and helpful tips for ATS. Though it is not a full-fledged guide itself, it can come in handy for topics not covered by any of the other resources.
 
 [Teaching Examples of Steinway Wu](http://steinwaywu.com/categories/)
+
+### Teaching Labs of Mark Lemay
+
+These series of short ATS tutorials and projects were made by a former TA for a class on ATS. Three years of labs are included though some may be similar. This is a useful resource to check-up on your understanding as you go through the in-depth tutorials.
+
+[Teaching Labs of Mark Lemay](https://docs.google.com/document/d/1DCeFy4xCTCxQ8PXigvOz2mMmc0LuFJF3u_OU4gjPbk8/edit?usp=sharing)
 
 

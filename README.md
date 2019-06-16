@@ -11,6 +11,14 @@ In conclusion, ATS is a language that could be easily used in any computer scien
 
 I hope you have taken these words to heart, and will browse some of these great tutorials below. They are a goldmine of information. Many thanks to all the people who created them.
 
+# Installing ATS
+
+The following are two helpful resources if you are trying to install ATS on your local machine. Installation on unix-like systems is pretty straightforward and is made even easier by precompiled packages for Debian and Redhat as well as several install scripts that are available. Windows computers have less documentation around the install but included is a great guide for those who prefer windows.
+
+[Installing ATS on Unix-like Systems](http://www.ats-lang.org/Downloads.html)
+
+[Installing ATS on Windows](https://docs.google.com/document/d/1qLHd5Wq8RSV3hl5UPJ_VfqlT2YK3dLfaaE1RnhXMkK8/edit?usp=sharing)
+
 
 # Video Tutorials
 
